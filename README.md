@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-I'm a self-taught mainframe developer who has been learning IBM Z technologies independently through hands-on practice, IBM Z webinars, video courses, and active participation in the IBM Community. I work with COBOL, JCL, CICS, DB2 (Embedded SQL, SPUFI, QMF), SQL, VSAM, BMS, TSO on z/OS. I have experience with IBM Utilities, DFSORT/ICETOOL/SyncSort, FTP and SMTP utilities. I have also worked with debugging and productivity tools such as OMEGAMON, EXPEDITOR, ABEND-AID, FILE-AID, File Manager, and Fault Analyzer. Currently deepening my knowledge of IMS DB/DC and IBM MQ. I use tools like ISPF, VS Code, and Zowe CLI in my daily workflow. I am passionate about enterprise computing and plan to continue growing within the mainframe ecosystem long-term.
+I’m a certified mainframe developer working with IBM Z technologies through hands-on practice, IBM Z webinars, courses and active participation in the IBM Community. I’m an IBM Z Advocate and an Open Mainframe Project contributor. I work with COBOL, JCL, CICS, DB2 (Embedded SQL, SPUFI, QMF), SQL, VSAM, BMS and TSO on z/OS. I have experience with IBM Utilities, DFSORT/ICETOOL/SyncSort, and FTP and SMTP utilities. I have also worked with debugging and productivity tools such as OMEGAMON, Expeditor, Abend-AID, File-AID, File Manager and Fault Analyzer. I’m currently deepening my knowledge of IMS DB/DC and IBM MQ, and I use ISPF, VS Code and Zowe CLI in my daily workflow. I’m passionate about enterprise computing and plan to keep growing within the mainframe ecosystem long-term.
 
 
 ## 🌐 Socials:
